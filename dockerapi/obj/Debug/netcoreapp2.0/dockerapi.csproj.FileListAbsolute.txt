@@ -1,0 +1,3 @@
+C:\deva\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.csprojAssemblyReference.cache
+C:\deva\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.AssemblyInfoInputs.cache
+C:\deva\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.AssemblyInfo.cs
